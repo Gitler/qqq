@@ -1,4 +1,4 @@
 qqq
 ===
 
-qqq repo
+qqq repo test update
